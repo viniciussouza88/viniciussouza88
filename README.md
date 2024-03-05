@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eu sou Vinicius, iniciei a minha jornada na programação a menos de um ano, estudando conceitos de logica de programação e linguagem de desenvolvimento web. Atualmente estou aprendendo e criando projetos com:
+Eu sou Vinicius, iniciei a minha jornada na programação em maio de 2023, estudando conceitos de logica de programação e linguagem de desenvolvimento web. Atualmente estou aprendendo e criando projetos com:
 <br>
 <br>
 
