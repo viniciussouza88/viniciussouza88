@@ -9,3 +9,5 @@ Eu sou Vinicius, iniciei a minha jornada na programação a menos de um ano, est
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciussouza88)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciussouza88)](https://github.com/anuraghazra/github-readme-stats)
+
